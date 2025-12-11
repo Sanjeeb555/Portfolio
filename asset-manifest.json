@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c0bc00c7.css",
+    "main.js": "/Portfolio/static/js/main.b4747cdc.js",
+    "static/js/787.f1d29f51.chunk.js": "/Portfolio/static/js/787.f1d29f51.chunk.js",
+    "static/media/22.jpg": "/Portfolio/static/media/22.e43603adff7bd558e18b.jpg",
+    "static/media/ProfePhoto3.png": "/Portfolio/static/media/ProfePhoto3.980bb54041fd5c39b7df.png",
+    "static/media/11.jpg": "/Portfolio/static/media/11.2dc8226d12a82e8b7322.jpg",
+    "static/media/10.jpg": "/Portfolio/static/media/10.37f9618ac10afa3bfcdd.jpg",
+    "static/media/28.jpg": "/Portfolio/static/media/28.f9ecbcfc467f3beaaf64.jpg",
+    "static/media/20.jpg": "/Portfolio/static/media/20.c79da5b8f7c7b4709eef.jpg",
+    "static/media/SanjeebDashResume.pdf": "/Portfolio/static/media/SanjeebDashResume.6d6043510a34c4f22d41.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.c0bc00c7.css.map": "/Portfolio/static/css/main.c0bc00c7.css.map",
+    "main.b4747cdc.js.map": "/Portfolio/static/js/main.b4747cdc.js.map",
+    "787.f1d29f51.chunk.js.map": "/Portfolio/static/js/787.f1d29f51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0bc00c7.css",
+    "static/js/main.b4747cdc.js"
+  ]
+}
